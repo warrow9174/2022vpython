@@ -1,3 +1,3 @@
 # 2022vpython
 
-print ("goodbye world")
+print ('goodbye world')
